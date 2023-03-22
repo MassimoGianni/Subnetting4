@@ -1,1 +1,1 @@
-IN questo esercizio abbiamo suddiviso una rete in 4 sottoreti più piccole, possiamo utilizzare la subnet mask 255.255.255.192 (/26), che utilizza 26 bit di rete e 6 bit di host. Questo ci fornisce 4 sottoreti, ognuna con 62 indirizzi host disponibili.
+IN questo esercizio abbiamo suddiviso una rete in 4 sottoreti più piccole, possiamo utilizzare la subnet mask 255.255.255.192 (/26), che utilizza 26 bit di rete e 6 bit di host la quale ci fornisce 4 sottoreti, ognuna con 62 indirizzi host disponibili. 
